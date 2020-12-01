@@ -8,6 +8,10 @@ public class student {
 	private String passwond;
 	private int sex;
 	private String love;
+	
+	shjkfdf  safdhf
+		sadhkafasjf
+		fsajkff;
 }
 
 
